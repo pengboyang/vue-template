@@ -7,6 +7,7 @@ import Mixin from './mixins';
 import store from './store';
 import axios from 'axios';
 
+import './style/css/reset.css';
 
 
 Vue.use(VueRouter);
