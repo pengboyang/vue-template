@@ -1,8 +1,11 @@
-<template>
-  <div id="app">
-    <img src="./assets/logo.png">
-    <router-view/>
-  </div>
+<template lang="pug">
+  <!--<div id="app">-->
+    <!--<img src="./assets/logo.png">-->
+    <!--<router-view/>-->
+  <!--</div>-->
+  #app
+    img(src="./assets/logo.png")
+    router-view
 </template>
 
 <script>
@@ -11,6 +14,6 @@ export default {
 }
 </script>
 
-<style>
-  @import "./style/css/index.css";
+<style lang="scss" rel="stylesheet/scss">
+  @import "./style/css/index.scss";
 </style>
