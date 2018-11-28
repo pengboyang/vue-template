@@ -1,5 +1,5 @@
 {
-  "name": "novel",
+  "name": "vue-template",
   "version": "1.0.0",
   "description": "A Vue.js project",
   "author": "Y <pengbo_zjj@163.com>",
@@ -12,6 +12,8 @@
   "dependencies": {
     "axios": "^0.18.0",
     "babel-polyfill": "^6.26.0",
+    "less": "^3.8.1",
+    "less-loader": "^4.1.0",
     "mixins": "0.0.1",
     "node-sass": "^4.10.0",
     "sass-loader": "^7.1.0",
