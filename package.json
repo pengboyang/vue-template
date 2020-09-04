@@ -15,7 +15,7 @@
     "less": "^3.8.1",
     "less-loader": "^4.1.0",
     "mixins": "0.0.1",
-    "node-sass": "^4.10.0",
+    "node-sass": "^4.13.1",
     "sass-loader": "^7.1.0",
     "vue": "^2.5.2",
     "vue-router": "^3.0.1",
